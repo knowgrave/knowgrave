@@ -40,7 +40,7 @@
 
 `gravesmp.net`
 
-[![Store](https://img.shields.io/badge/Store-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://store.graveffa.net)
+[![Store](https://img.shields.io/badge/Store-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://store.gravesmp.net)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MSh8YpQN2X)
 
 <br>
