@@ -34,11 +34,11 @@
 
 <br>
 
-### GraveFFA
+### GraveSMP
 
-**Minecraft FFA PvP server.**
+**Minecraft Lifesteal server.**
 
-`graveffa.net`
+`gravesmp.net`
 
 [![Store](https://img.shields.io/badge/Store-991B1B?style=flat-square&logo=googlechrome&logoColor=white)](https://store.graveffa.net)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MSh8YpQN2X)
